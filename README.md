@@ -10,7 +10,7 @@
     <a href="https://www.npmjs.com/~custom-dev-tools" title="NPM"><img src="images/npm.svg" alt="NPM" style="width: 30px; height: 30px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://packagist.org/users/custom-dev-tools/packages/" title="Packagist"><img src="images/packagist.svg" alt="Packagist" style="width: 30px; height: 30px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/2627338/midnight-coding" title="StackOverflow"><img src="images/stackoverflow.svg" alt="StackOverflow" style="width: 30px; height: 30px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.buymeacoffee.com/customdevtools" title="Buy me a Coffee"><img src="images/buy-me-a-coffee.svg" alt="Buy me a coffee" style="width: 30px; height: 30px;"></a>
+    <a href="https://buymeacoffee.com/customdevtools" title="Buy me a Coffee"><img src="images/buy-me-a-coffee.svg" alt="Buy me a coffee" style="width: 30px; height: 30px;"></a>
 </div>
 
 ---
