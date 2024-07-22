@@ -19,4 +19,8 @@
     <h1>Let's Make Something ...</h1>
 </div>
 
+<div align="center">
+    <p>Scripts and programs to simplify and streamline your development environments and build processes</p>
+</div>
+
 ---
